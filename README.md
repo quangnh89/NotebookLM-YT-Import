@@ -21,9 +21,6 @@ Instead of adding each video manually, this userscript provides a simple interfa
 - Progress and error feedback  
   Shows which link is being processed and warns you if a specific URL cannot be added.
 
-- Optional auto-close behavior  
-  After all links are successfully imported, the dialog can be closed automatically (if implemented in your version).
-
 ---
 
 ## Requirements
